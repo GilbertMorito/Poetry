@@ -19,7 +19,7 @@ html, body {
 }
 
 h1{
-    font-family: Prata;
+    font-family: prata;
     font-weight: 10px;
     font-size: 40px;
     color: #292929;
@@ -180,4 +180,8 @@ input[type="submit"]:hover {
 @font-face {
     font-family: Arialnovacandalight;
     src: url("../fonts/ArialNovaCond-Light.ttf");
+}
+@font-face {
+    font-family: prata;
+    src: url("../fonts/Prata-Regular.ttf");
 }
